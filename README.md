@@ -10,7 +10,8 @@ This repository showcases the projects I developed during my Operating Systems (
 A simple command-line shell for Linux with the following features:  
 - Execute commands with arguments.  
 - Command chaining (`;`), piping (`|`), and output redirection (`>`).  
-- Support for background processes (`&`) and local variable declarations.  
+- Support for background processes (`&`)
+- local variable declarations.  
 
 ### 2. **Multithreaded Task Handler**  
 A system for managing and executing multiple tasks concurrently, utilizing:  
